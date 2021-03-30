@@ -1,8 +1,6 @@
 <?php
     include('../Includes/header.php');
-    include('../Acoes/logar.php');
-    session_start();
-    
+    include('../Acoes/logar.php');   
 ?>
 
 <body class='container bg-light'>
